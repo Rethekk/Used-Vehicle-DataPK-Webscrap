@@ -1,6 +1,6 @@
-# Used-Vehicle-DataPK-Webscrap
-# This project is solely done by ME(Rethek Kumar) as a personal project
-## Used vehicle data is being scrapped from PakWheels Website
+#                                                                               Used-Vehicle-DataPK-Webscrap
+## This project is solely done by ME(Rethek Kumar) as a personal project
+
 The Output CSV file has 8 columns:
   - Gear Type
   - Fuel Type
@@ -31,3 +31,7 @@ Year Of Manufacture:
 
 Volume of Fuel:
               Volume of Fuel represents volume of fuel and air that can be pushed through a car's cylinders, it is represented in terms of CC.
+
+
+
+### Used vehicle data is being scrapped from PakWheels Website
