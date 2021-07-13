@@ -32,6 +32,8 @@ Year Of Manufacture:
 Volume of Fuel:
               Volume of Fuel represents volume of fuel and air that can be pushed through a car's cylinders, it is represented in terms of CC.
 
+Explanation of title and program:
+This program is scraping data for used car present in Pakistan ONLY. The PK in title represents User Car Data in Pakistan.
 
 
 ### Used vehicle data is being scrapped from PakWheels Website
