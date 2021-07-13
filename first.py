@@ -34,7 +34,7 @@ for i in range(1,3):
         #print("head")
 
 
-            #print(str(name)+str(loc)+str(details)+str(price))
+            
         frame=frame.append({'name':name,'location':loc,'year_of_manufacture':test[1],'mileage':test[2],'fuel_type':test[3],'volume_of_fuel':test[4],'Gear_type':test[5],'price':price},ignore_index=True)
 
 
