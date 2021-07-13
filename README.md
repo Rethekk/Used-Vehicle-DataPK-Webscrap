@@ -21,7 +21,7 @@ Name:<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name of the vehicle being sold<br />
 
 Price:<br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price of vehicle at which vehicle is being sold, the data is formatted in terms of x1000 for further use. Price is represented in terms of ten thousand(x10000)<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price of vehicle at which vehicle is being sold, the data is formatted in terms of x10000 for further use. Price is represented in terms of ten thousand(x10000)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;##Price*10000=value in Rupees<br />
 Mileage:<br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mileage represents how much car has travelled in terms of Km<br />
