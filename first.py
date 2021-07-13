@@ -52,14 +52,14 @@ frame['price']=frame['price'].astype(str)
 for i in frame.index:
     if frame.price.loc[i].endswith('crore'):
         frame.price.loc[i]=re.sub(r'crore','',frame.price.loc[i])
-        frame.price.loc[i]=float(frame.price.loc[i])*10000000
+        frame.price.loc[i]=float(frame.price.loc[i])*1000
 
 frame['price']=frame['price'].astype(str)
 
 for i in frame.index:
     if frame.price.loc[i].endswith('lacs'):
         frame.price.loc[i]=re.sub(r'lacs','',frame.price.loc[i])
-        frame.price.loc[i]=float(frame.price.loc[i])*100000
+        frame.price.loc[i]=float(frame.price.loc[i])*10
     #print(frame.price)
 
 
