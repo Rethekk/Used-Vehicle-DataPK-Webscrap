@@ -1,5 +1,6 @@
 # Used-Vehicle-DataPK-Webscrap
-
+# This project is solely done by ME(Rethek Kumar) as a personal project
+## Used vehicle data is being scrapped from PakWheels Website
 The Output CSV file has 8 columns:
   - Gear Type
   - Fuel Type
